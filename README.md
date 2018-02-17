@@ -1,2 +1,2 @@
 # Titanic-pyspark
-Play with the Titanic Dataset using PySpark
+The aim of this script was to have a first coding experience with Spark in python. It is not a fency approach to reach the best prediction score on Kaggle ...
